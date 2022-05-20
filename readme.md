@@ -1,5 +1,5 @@
 
-![1](https://user-images.githubusercontent.com/59155079/169463043-4354652a-159a-4881-ad2c-fbd0c20cc843.PNG)
+![1](https://user-images.githubusercontent.com/59155079/169471872-184be373-9e12-4052-9624-f75981f551c5.PNG)
 ![2](https://user-images.githubusercontent.com/59155079/169463070-c281a4a6-6196-4232-a6a9-242d1dfd7ac8.PNG)
 
 ![프로젝트 스펙001](https://user-images.githubusercontent.com/59155079/169459309-235007de-18fe-4d4a-b0e1-547a067f0830.jpg)
